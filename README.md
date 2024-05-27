@@ -1,5 +1,5 @@
 > **Nota:**
 >
-> Para probar el código, puedes ingresar al siguiente [enlace](https://example.com)
+> Para probar el código, puedes ingresar al siguiente [enlace]([https://example.com](https://jonathann-h.github.io/ModoClaroOscuro/))
 
-https://jonathann-h.github.io/ModoClaroOscuro/
+
